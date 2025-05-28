@@ -1,12 +1,37 @@
-# React + Vite
+# VisualR 💻 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ✏️ Descrição  
+<b>VisualR</b> é uma landing page de um produto fictício de realidade virtual que auxilia o processo de desenvolvimento de aplicações. Desenvolvi o projeto para compreender e praticar a utilização do <b>tailwindcss</b> para estilizações com base na videoaula do canal <b>[compiletab](https://www.youtube.com/@compiletab)</b>, que explica de uma maneira clara todo o processo.  
+Além disso, realizei alguns incrementos como a adição de <u>redirecionamento</u> e <u>rolagens fluidas</u> na página ao clicar nos tópicos da navbar, um <u>botão de ir para o final do site</u> e <u>hover</u> nos botões.
 
-Currently, two official plugins are available:
+## 🌐 Acesse o projeto <u>[aqui](https://vr-landing-page-tailwind.vercel.app/):</u> 
+  
+## 🖼️ Prévia  
+![Captura de tela mostrando os dados climáticos de uma cidade](./src/assets/image.png) 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologias Utilizadas  
+- **React**  
+- **JavaScript**  
+- **Tailwindcss** 
 
-## Expanding the ESLint configuration
+## ⚠️ Importante
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Certifique-se de ter a versão 22.11.0 do node instalada em sua máquina
+
+## 🚀 Como Executar o Projeto  
+
+1. Clone o repositório e navegue até sua pasta:  
+   ```bash  
+   git clone https://github.com/AnaMotta223/vr-landing-page-tailwind.git 
+   cd vr-landing-page-tailwind  
+   ```  
+
+2. Instale as dependências:  
+   ```bash  
+   npm install  
+   ```  
+4. Inicie o projeto:  
+   ```bash  
+   npm run dev 
+   ```  
+---
